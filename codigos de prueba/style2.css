@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Ubuntu&display=swap");
+body{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 20px;
+    background-color: red;   
+}
+
+.contenedor{
+width: 800px;
+background-color: white;
+padding: 16px;
+margin:50px auto ;
+border-radius: 8px;
+}
+.cabeza{
+    text-align: center;
+}
+.seccion{
+    width: 700px;
+    height: 400px;
+    margin: 50px;
+background-image: url(../images/jordan.jpg);
+}
+.footer{
+    text-align: center;
+}

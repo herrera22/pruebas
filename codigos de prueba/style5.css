@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Ubuntu&display=swap");
+body{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 20px;
+    background-color: red;   
+    margin: 16px;
+
+}
+header{
+    display: flex;
+    background-color:white;
+    padding : 16px;
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+}
+nav{
+    margin-top: 8px;
+    padding: 16px;
+    background-color: white;
+    border-radius: 8px;
+}
+.logo img{
+    padding: 4px;
+    height: 100px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color:red;
+}
+nav a{
+    padding-left: 25px;
+}
+section{
+    margin-top: 16px;
+    margin-bottom: 40px;
+    background-color: white;
+    padding-top:16px;
+    padding-bottom:16px;
+    border-radius: 8px;
+    margin: 50px;
+}
+h2,h3{
+    padding-left: 12px;
+    align-items:center;
+}
+p{
+    padding: 16px;
+}
+footer{
+    margin-top: 16px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 12px;
+}
+h6{
+    margin-top: 16px;
+    padding: 16px;
+    text-align: center;
+}
+.bulls {
+
+    height:690px;
+    width: 1131px;
+    background-image: url(../images/chic66.jpg);
+}
+.bulls img {
+
+    height:690px;
+    width: 1131px;
+    
+}
+.bulls2 img{
+    padding: 16px;
+    height: 150px;
+    padding-left: 250px;
+}
+
+.bulls3 img{
+   
+    padding: 16px;
+    height: 150px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 250px;
+}
+.bulls4{
+    padding: 16px;
+    padding-left: 300px;
+}
+.bulls5{
+    padding: 16px;
+    padding-left: 300px;
+}
+.bulls6{
+    padding: 16px;
+    padding-left: 300px;
+}
+.bulls7{
+    padding: 16px;
+    padding-left: 300px;
+}
+h3{
+    padding-left: 535px;
+}
+h4,h5{
+    text-align: center;
+}
+
+
